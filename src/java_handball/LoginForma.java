@@ -81,6 +81,7 @@ public class LoginForma extends javax.swing.JFrame {
         jLabel3.setText("KROSINICKO IME:");
 
         jTextFieldIme.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
+        jTextFieldIme.setText("admin");
 
         jButtonPrijava.setBackground(new java.awt.Color(0, 0, 0));
         jButtonPrijava.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
@@ -93,6 +94,7 @@ public class LoginForma extends javax.swing.JFrame {
         });
 
         jPasswordFieldLozinka.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
+        jPasswordFieldLozinka.setText("admin");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
